@@ -19,3 +19,7 @@ We welcome contributors and community members! Here's how you can get involved:
 3. **Contribute:** Make your contributions, whether it's fixing bugs, adding new features, or improving documentation.
 
 4. **Submit Pull Requests:** Push your changes to your forked repository and submit a pull request. We'll review it and provide feedback.
+
+If you're interested in being part of this initiative let me know and We'll add you to the `openbfdev` organization so you can create repos here and contribute to existing ones.
+
+Also feel free to open a GitHub Discussion [here](https://github.com/orgs/openbfdev/discussions).
