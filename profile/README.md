@@ -6,7 +6,9 @@ Welcome to the Bfdev Open Source Community!
 
 ## About Us
 
-Openbfdev is a community-driven organization dedicated to develop various components and services required for the bfdev, and their ecosystem. We aim to build various services that facilitate developers.
+Openbfdev is a community-driven organization dedicated to develop various components and services required for the bfdev, and their ecosystem.
+
+We aim to build an **brief**, **stable**, and **efficient** development environment for developers.
 
 ## How to Get Involved
 
